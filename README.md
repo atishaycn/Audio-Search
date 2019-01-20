@@ -6,7 +6,10 @@ Audio Search using Convolutional Network
 - Using transfer learning, data augmentation, and regularization to avoid overfitting and increasing overall model accuracy
 
 To Run:
-Download the files from the data folder and the files from the google drive link. Place them in the same folder as the notebook.
-Create two directories in a folder called spectrogram named 'laugh track' and 'dialogue' in the same directory.
 
-Run the commands in the notebook.
+- Download the files from the data folder and the files from the google drive link. Place them in the same folder as the notebook.
+- Create two directories in a folder called spectrogram named 'laugh track' and 'dialogue' in the same directory.
+- Run the commands in the notebook.
+
+
+Drive link - https://drive.google.com/file/d/1fH85ia5onbWPz5wno_7CmaRYokqjQwpH/view?usp=sharing
